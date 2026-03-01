@@ -1,0 +1,10 @@
+boto3>=1.34.0
+neo4j>=5.23.0
+requests>=2.32.0
+python-dotenv>=1.0.1
+fastapi>=0.115.0
+uvicorn>=0.31.0
+websockets>=12.0
+# Optional runtime extras (voice input)
+openai-whisper>=20240930
+sounddevice>=0.4.7
